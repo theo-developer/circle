@@ -1,4 +1,4 @@
-version: 2.1 
+# Use the latest 2.1 version of CircleCI pipeline process enginversion: 2.1 
  
 orbs:
   win: circleci/windows@2.2.0
